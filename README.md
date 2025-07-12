@@ -27,7 +27,10 @@ pip install -r requirements.txt
 
 3. Download FFmpeg:
    - Download FFmpeg from [ffmpeg.org](https://ffmpeg.org/download.html)
-   - Place `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe` in the project root directory
+   - Download the Windows build from [BtbN](https://github.com/BtbN/FFmpeg-Builds/releases)
+   - Extract and place `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe` in the project root directory
+   
+   Note: FFmpeg files are required for video processing but are not included in the repository due to size limitations.
 
 ## 🛠️ Usage
 
