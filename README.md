@@ -1,6 +1,6 @@
 # 🎥 SocialSnap Lite
 
-SocialSnap Lite is a modern, user-friendly YouTube video and playlist downloader with a beautiful dark-themed interface. It supports downloading videos in various formats and qualities, with automatic audio-video merging capabilities.
+Download videos from any social media platform with ease! SocialSnap Lite is a cutting-edge, user-friendly tool that lets you grab videos from YouTube, Instagram, TikTok, Facebook, and over 600+ other platforms in a snap. With a sleek interface, fast downloads, and no registration required, it’s your go-to solution for capturing content. iT is lite version of SocialSnap ``` https://github.com/UTKARSHKUMAR712/socialsnap.git ``` .
 
 ## ✨ Features
 
@@ -24,10 +24,6 @@ cd SocialSnap-Lite
 ```bash
 pip install -r requirements.txt
 ```
-
-3. Download FFmpeg:
-   - Download FFmpeg from [ffmpeg.org](https://ffmpeg.org/download.html)
-   - Place `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe` in the project root directory
 
 ## 🛠️ Usage
 
