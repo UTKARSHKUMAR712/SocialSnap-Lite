@@ -1,6 +1,8 @@
 # 🎥 SocialSnap Lite
 
 Download videos from any social media platform with ease! SocialSnap Lite is a cutting-edge, user-friendly tool that lets you grab videos from YouTube, Instagram, TikTok, Facebook, and over 600+ other platforms in a snap. With a sleek interface, fast downloads, and no registration required, it’s your go-to solution for capturing content. iT is lite version of SocialSnap ``` https://github.com/UTKARSHKUMAR712/socialsnap.git ``` .
+<img width="1002" height="842" alt="Screenshot 2025-07-12 125509" src="https://github.com/user-attachments/assets/f0f5dcf9-a85d-405c-a9e5-e97f5750fdf4" />
+<img width="1006" height="847" alt="Screenshot 2025-07-12 125334" src="https://github.com/user-attachments/assets/59c6f00d-ee98-4367-b6ef-39d4d199c648" />
 
 ## ✨ Features
 
