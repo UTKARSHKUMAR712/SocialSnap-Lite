@@ -27,16 +27,7 @@ cd SocialSnap-Lite
 pip install -r requirements.txt
 ```
 
-<<<<<<< HEAD
-3. Download FFmpeg:
-   - Download FFmpeg from [ffmpeg.org](https://ffmpeg.org/download.html)
-   - Download the Windows build from [BtbN](https://github.com/BtbN/FFmpeg-Builds/releases)
-   - Extract and place `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe` in the project root directory
-   
-   Note: FFmpeg files are required for video processing but are not included in the repository due to size limitations.
 
-=======
->>>>>>> 03fd69729e187a3294d52f35aba7cab0ba46a4f8
 ## 🛠️ Usage
 
 1. Run the application:
